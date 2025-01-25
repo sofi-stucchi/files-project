@@ -1,1 +1,2 @@
-print ("Hola, mi papa es un pelotudo y encima es re terco")
+# 1) Create file called students.txt
+with open("students.txt","w") as file:
