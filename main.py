@@ -1,1 +1,1 @@
-print ("Hola, soy sofia. Ver cambios.")
+print ("Hola, mi papa es un pelotudo y encima es re terco")
