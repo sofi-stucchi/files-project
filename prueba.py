@@ -1,6 +1,6 @@
 # Example 1: Print something in the screen
 	
-# print("Hello, I'm Sofia this is my first code")
+print("Hello, I'm Sofia this is my first code")
 
 # Example 2: Second letter in Sofia
 
