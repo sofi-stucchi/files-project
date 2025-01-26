@@ -2,7 +2,6 @@
 	
 # print("Hello, I'm Sofia this is my first code")
 
-"""
 # Example 2: Second letter in Sofia
 
 name = input("Enter a name: ")
@@ -17,7 +16,6 @@ if len(name) >= 2:
 else:
     print("The name is too short to have a second letter.")
 
-"""
 # Example 3: My first loop
 
 word = "Sofia"
